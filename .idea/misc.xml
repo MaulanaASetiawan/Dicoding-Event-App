@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/dicodingevent/ui/settings/SettingPreferences.kt dataStore$delegate" />
+      <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/dicodingevent/ui/settings/SettingPreferences.kt" />
+    </entry_points>
+    <pattern value="com.example.dicodingevent.ui.settings.MyWorker" method="MyWorker" />
+    <pattern value="com.example.dicodingevent.ExampleUnitTest" method="addition_isCorrect" />
+    <pattern value="com.example.dicodingevent.data.remote.retrofit.ApiConfig" />
+    <pattern value="com.example.dicodingevent.ui.favorite.FavoriteFragment.Companion" />
+    <pattern value="com.example.dicodingevent.ui.finished.FinishedAdapter.Companion" />
+    <pattern value="com.example.dicodingevent.ui.upcoming.UpcomingAdapter.Companion" />
+    <pattern value="com.example.dicodingevent.ui.detail.DetailActivity" />
+    <pattern value="com.example.dicodingevent.data.remote.response.Event" />
+    <pattern value="com.example.dicodingevent.data.remote.response.Event" method="Event" />
+    <pattern value="com.example.dicodingevent.ExampleInstrumentedTest" />
+    <pattern value="com.example.dicodingevent.ExampleUnitTest" />
+    <pattern value="com.example.dicodingevent.data.local.entity.FavoriteEntity" />
+    <pattern value="com.example.dicodingevent.ui.favorite.FavoriteFragment" />
+    <pattern value="com.example.dicodingevent.ui.finished.FinishedAdapter" />
+    <pattern value="com.example.dicodingevent.ui.finished.FinishedFragment" />
+    <pattern value="com.example.dicodingevent.ui.home.HomeFragment" />
+    <pattern value="com.example.dicodingevent.data.remote.response.ListEventsItem" />
+    <pattern value="com.example.dicodingevent.data.remote.response.ListEventsItem" method="ListEventsItem" />
+    <pattern value="com.example.dicodingevent.MainActivity" />
+    <pattern value="com.example.dicodingevent.ui.settings.MyWorker" />
+    <pattern value="com.example.dicodingevent.data.remote.response.ResponseDetail" />
+    <pattern value="com.example.dicodingevent.data.remote.response.ResponseDetail" method="ResponseDetail" />
+    <pattern value="com.example.dicodingevent.data.remote.response.ResponseList" />
+    <pattern value="com.example.dicodingevent.data.remote.response.ResponseList" method="ResponseList" />
+    <pattern value="com.example.dicodingevent.ui.search.SearchActivity" />
+    <pattern value="com.example.dicodingevent.ui.settings.SettingFragment" />
+    <pattern value="com.example.dicodingevent.ui.upcoming.UpcomingAdapter" />
+    <pattern value="com.example.dicodingevent.ui.upcoming.UpcomingFragment" />
+    <pattern value="com.example.dicodingevent.ExampleInstrumentedTest" method="useAppContext" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
